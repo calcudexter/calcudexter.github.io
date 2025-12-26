@@ -7,6 +7,28 @@ author_profile: true
 
 # Projects
 
+### GPU HW & SW Optimizations
+
+Guide: Prof. Hyesoon Kim, CS8803 - GPUs, Fall '25
+
+* Optimized CUDA kernels for tiled matrix multiplication and bitonic sort using shared & pinned memory, tiling, loop unrolling, kernel fusion & fission, async operations, memory transfer, etc.
+* Implementing CUDA kernels for Softmax, GEMM, and Multi-head attention to achieve an LLM inference pipeline having FlashAttention2 support, optimized with KV-cache for token times
+
+### Array Bounds Check Optimizer
+
+Guide: Prof. Santosh Pande, CS6291 - Advanced Compilers, Spring '25
+
+* Developed LLVM compiler passes to eliminate redundant checks and improve runtime by ∼20%
+* Applied Gupta’s algorithm for redundancy removal via check splitting and selective elimination
+* Implemented ABCD algorithm for JIT applications and check removal by graph-based algorithms
+
+### Securing Computer Systems
+
+Guide: Prof. Ahamad Mustaque, CS6238 - SCS, Spring '25
+
+* Implemented a trusted computing base (TCB) and memory protection, reducing flaws by 40%
+* Designed and deployed authentication and access control, improving security enforcement by 35%
+
 ### A survey of various Erasure Coding Schemes
 
 Guide: Prof. Jun Xu, CS7260 - Network Algorithmics Course Project, Fall '24

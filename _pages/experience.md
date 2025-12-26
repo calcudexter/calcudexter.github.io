@@ -7,6 +7,15 @@ author_profile: true
 
 # Professional Experience
 
+### ML Compilers Internship
+
+Qualcomm Incorporated (Boxborough, Massachusetts), Summer '25
+
+* Optimized ML compiler for devices, improving modularity, and reducing compilation time by 3x
+* Implemented quantization and LLM optimizations for efficient inference on Qualcomm accelerators
+* Improved cross-team collab by deliverables in: Parsing, IR modification, CodeGen, Performance Analysis
+
+
 ### Quantitative Research Internship
 
 Quadeye Securities LLP (Gurgaon, India), Summer '23
@@ -37,11 +46,14 @@ FinIQ Consulting Pvt. Ltd. (Pune, India), Winter '22
 
 # Research Experience
 
-### Phaedrus: Exploring Dynamic Application Behavior with Lightweight Generative Models and Large-Language Models
+### [Phaedrus: Exploring Dynamic Application Behavior with Lightweight Generative Models and Large-Language Models](https://arxiv.org/abs/2412.06994)
 
-Guide: Prof. Santosh Pande, Part of Master's Thesis, Fall '24
+Published at OOPSLA '26  
+Guide: Prof. Santosh Pande, Part of Master's Thesis  
 
-* Submitted to PLDI 2025
+* Analysed SPEC benchmarks with GPT-4; >10% reduction in binary size via compiler optimizations
+* Leveraged LLMs with profile-guided optimization (PGO) to accurately predict expensive functions
+with 85% execution coverage, reducing software-profiling overhead and improving runtime by 10%
 
 ### Robust Celltree: A Paradigm for Distributed Data Repositories
 
@@ -79,7 +91,8 @@ Guide: Prof. Abir De, Fall '23
 
 # Teaching
 
-* Teaching Assistant, CS3510 - Design and Analysis of Algorithms, Fall '24, GA Tech
+* Teaching Assistant, CS3510 - Design and Analysis of Algorithms, Fall '24 to Spring '26, GA Tech
+* Teaching Assistant, CS765 - Blockchains and Cryptocurrencies, Spring '24, IIT Bombay
 * Teaching Assistant, CS684 - Embedded Systems, Spring '23, IIT Bombay
 * Teaching Assistant, MA109 - Calculus, Fall '21, IIT Bombay
 

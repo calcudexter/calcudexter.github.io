@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hola!
-I completed my Bachelors (with Honors) in Computer Science and Engineering at IIT Bombay. I was actively involved in research in Machine Learning, Blockchains and Design of Protocols. Through past internships, I have also acquired experiences in Software Engineering, Large Scale Global Optimisation (LSGO), Quantitative Research and Compilers.
+## Hi!
+I am a graduate student at Georgia Tech pursuing the Master's degree along the thesis track. Having a background in ML and Compilers, I am involved in studying ML techniques for Code Optimization at the Compiler Lab. I expect to graduate in Spring '26.
 
-I will be pursuing a Master's degree in Computer Science at Georgia Tech from Fall '24 where I aim to continue pursuing my research interests and would like to connect for future collaboration.
+Previously, I completed my Bachelors (with Honors) in Computer Science and Engineering at IIT Bombay. I was actively involved in research in Machine Learning, Blockchains and Design of Consensus Protocols. Through past internships, I have also acquired experiences in Software Engineering, Large Scale Global Optimisation (LSGO), Quantitative Research and Compilers.
